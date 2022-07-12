@@ -28,4 +28,4 @@ Ademas cuenta con la opción de crear archivos CSV de manera dinamica, dando par
 
 ![Alt Text](https://github.com/1uisMoreno/Graficas-en-Go/blob/master/img/SS%20createCSV%20output.png)
 
-La infromación completa se encuentra en el Resporte adjunto en el repositorio ("Reporte de Proyecto Graficas en Go.pdf").
+La infromación completa se encuentra en el Reporte adjunto en el repositorio ("Reporte de Proyecto Graficas en Go.pdf").
